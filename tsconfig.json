@@ -10,7 +10,7 @@
     "strict": true,
     "sourceMap": false,
     "skipLibCheck": true,
-    "outDir": "./dist",
+    "outDir": "./public",
     "baseUrl": "./"
   },
   "exclude": ["node_modules", "migration.ts"],
